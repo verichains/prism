@@ -173,6 +173,7 @@
 		"psl": "PATROL Scripting Language",
 		"pcaxis": "PC-Axis",
 		"px": "PC-Axis",
+		"pcr": "Polaris Custom Rule",
 		"peoplecode": "PeopleCode",
 		"pcode": "PeopleCode",
 		"php": "PHP",

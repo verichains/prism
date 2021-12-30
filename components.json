@@ -970,6 +970,10 @@
 			"alias": "px",
 			"owner": "RunDevelopment"
 		},
+		"pcr": {
+			"title": "Polaris Custom Rule",
+			"owner": "Polarisec"
+		},
 		"peoplecode": {
 			"title": "PeopleCode",
 			"alias": "pcode",
